@@ -1,0 +1,2 @@
+net.noureddine.dao.DaoImpl
+net.noureddine.metier.MetierImpl
